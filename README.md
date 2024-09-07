@@ -34,8 +34,8 @@ No arquivo `application.properties`, você encontrará a configuração do banco
 1. **Console do H2**:
    - **URL**: [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
    - **JDBC URL**: `jdbc:h2:mem:testdb`
-   - **Usuário**: `sa`
-   - **Senha**: `password`
+   - **Usuário**: `root`
+   - **Senha**: `root`
 
 ## Endpoints da API
 - GET /clientes: Listar todos os clientes.
